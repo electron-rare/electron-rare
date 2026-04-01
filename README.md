@@ -39,7 +39,7 @@ I build hybrid organisms at the intersection of live performance technology, emb
 
 ## Fine-tuned models
 
-8 domain-specific models & 9 datasets on [Hugging Face](https://huggingface.co/clemsail) — ESP32, STM32, KiCad, SPICE, PlatformIO, IoT, DSP, EMC.
+8 domain-specific models & 9 datasets on [Hugging Face](https://huggingface.co/electron-rare) — ESP32, STM32, KiCad, SPICE, PlatformIO, IoT, DSP, EMC.
 
 ## Stats
 
@@ -63,7 +63,7 @@ I build hybrid organisms at the intersection of live performance technology, emb
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/electron-rare/)
 [![Website](https://img.shields.io/badge/-lelectronrare.fr-FF6B6B?style=flat-square&logo=firefox&logoColor=white)](https://lelectronrare.fr)
-[![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/clemsail)
+[![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/electron-rare)
 [![Website](https://img.shields.io/badge/-saillant.cc-4A90D9?style=flat-square&logo=firefox&logoColor=white)](https://saillant.cc)
 
 ---
