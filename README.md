@@ -10,7 +10,15 @@ I build hybrid organisms at the intersection of live performance technology, emb
 
 - **[Mascarade](https://github.com/electron-rare/mascarade)** — Multi-machine agentic LLM orchestration platform. P2P mesh, 8 providers, 29 fine-tuned models. *The nervous system.*
 - **[Kill_LIFE](https://github.com/electron-rare/Kill_LIFE)** — Spec-first agentic methodology for embedded systems. ESP32/STM32, BMAD agents, evidence packs. *The skeleton.*
+- **[KiC-AI](https://github.com/electron-rare/KiC-AI)** — AI-powered PCB design assistant for KiCad. Chat, analysis, local LLM. *The eye.*
 - **[openDIAW.be](https://github.com/electron-rare/openDIAW.be)** — AI-powered music instruments for live performance. Drone, Grain, Glitch, KokoroTTS. *The voice.*
+- **[Le Mystère du Professeur Zacus](https://github.com/electron-rare/le-mystere-professeur-zacus)** — AI-powered escape room. ESP32-S3 + React + voice pipeline. *The skin.*
+
+> *"The body is not a biological given, but a techno-living political fiction."* — Paul B. Preciado
+
+## Fine-tuned models
+
+8 domain-specific models & 9 datasets on [Hugging Face](https://huggingface.co/clemsail) — ESP32, STM32, KiCad, SPICE, PlatformIO, IoT, DSP, EMC.
 
 ## Stats
 
@@ -32,8 +40,10 @@ I build hybrid organisms at the intersection of live performance technology, emb
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/electron-rare/)
 [![Website](https://img.shields.io/badge/-lelectronrare.fr-FF6B6B?style=flat-square&logo=firefox&logoColor=white)](https://lelectronrare.fr)
+[![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/clemsail)
 [![Website](https://img.shields.io/badge/-saillant.cc-4A90D9?style=flat-square&logo=firefox&logoColor=white)](https://saillant.cc)
 
 ---
 
 *L'Electron Rare — where hardware mutates into intelligence.*
+*The street finds its own uses for things. — W. Gibson*
