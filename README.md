@@ -15,11 +15,12 @@ Two entities, one cluster:
 
 ## Currently building — FineFab (commercial)
 
-- **[Factory 4 Life](https://github.com/L-electron-Rare/factory-4-life)** — Manufacturing platform monorepo. AI-driven workflow control plane, OIDC SSO, multi-tenant ops cockpit. *The body.*
-- **[ailiance](https://github.com/L-electron-Rare/ailiance)** — EU-sovereign multi-model LLM gateway (Apertus 70B + EuroLLM 22B + Mistral + Granite + Gemma) with EU AI Act Art. 52/53 transparency. *The voice.*
+The FineFab manufacturing stack — Factory 4 Life monorepo, **ailiance** EU-sovereign LLM gateway, **EuclidEDA** EDA pipeline engine, and the **iact-bench** EU AI Act audit-grade benchmark — lives in [L-electron-Rare](https://github.com/L-electron-Rare). Most of it is private until the public release; the open-source surface is below.
+
 - **[agent-kiki](https://github.com/L-electron-Rare/agent-kiki)** — EU-sovereign autonomous coding agent. VS Code extension + Ink CLI, routed by default to the eu-kiki gateway with AI Act-compliant JSONL tracing.
-- **[EuclidEDA](https://github.com/L-electron-Rare/euclideda)** — Open-source pipeline orchestration engine for sovereign EU EDA workflows. Rust, 5 crates, trace-id 128-bit, Runner trait dispatch (process / HTTP / MCP).
-- **[iact-bench](https://github.com/electron-rare/iact-bench)** — EU AI Act audit-grade benchmark. 31 domains × ≤23 models × 23 sandboxed Docker validators, NDJSON audit trail, methodology v1.
+- **[ailiance-demo](https://github.com/L-electron-Rare/ailiance-demo)** — Frontend cockpit for the LLM fleet. Public showcase + Tailscale-only admin (FastAPI + Vite + React 19).
+- **[KIKI-Mac_tunner](https://github.com/L-electron-Rare/KIKI-Mac_tunner)** — MLX fine-tuning toolkit for Mac Studio M3 Ultra 512 GB — distill Claude Opus reasoning into Mistral Large 123B.
+- **[KIKI-models-tuning](https://github.com/L-electron-Rare/KIKI-models-tuning)** — FineFab fine-tuning pipeline (Unsloth, LoRA, eval, registry).
 
 > *"The body is not a biological given, but a techno-living political fiction."* — Paul B. Preciado
 
@@ -37,7 +38,6 @@ Two entities, one cluster:
 - **[ESP32_ZACUS](https://github.com/electron-rare/ESP32_ZACUS)** — Zacus ESP32 firmware. C / ESP-IDF.
 - **[AV-Live](https://github.com/electron-rare/AV-Live)** — Audio-visual live performance monorepo: SuperCollider sound engine + openFrameworks oscilloscope + SwiftUI menubar launcher. GPL-3.
 - **[openDIAW.be](https://github.com/electron-rare/openDIAW.be)** — AI-powered music instruments for live performance. Drone, Grain, Glitch, KokoroTTS.
-- **[hypnoled](https://github.com/electron-rare/hypnoled)** — ESP32 LED animations for spectacle vivant.
 - **[DMX_ESP_Stepper-controller](https://github.com/electron-rare/DMX_ESP_Stepper-controller)** — DMX-driven stepper motor controller for the Opéra de Montpellier. ⭐
 - **[OSC-to-I2C-PWM-Les-amis-nos-morts](https://github.com/electron-rare/OSC-to-I2C-PWM-Les-amis-nos-morts)** — OSC → I²C bridge for CORBACS animatronics. Teensy.
 - **[kxkm_clown](https://github.com/electron-rare/kxkm_clown)** — Multi-persona LLM chat system for live performance (KXKM).
@@ -47,14 +47,13 @@ Two entities, one cluster:
 
 - **[KiC-AI](https://github.com/electron-rare/KiC-AI)** — AI-powered PCB design assistant for KiCad. Chat, analysis, local LLM. *The eye.*
 - **[KiCAD-MCP-Server](https://github.com/electron-rare/KiCAD-MCP-Server)** — MCP server letting LLMs (Claude, GPT) drive KiCad directly for PCB design.
-- **[YiACAD](https://github.com/electron-rare/YiACAD)** — AI-native KiCad + FreeCAD web platform — schematic editor, PCB layout, FreeCAD viewer.
 - **[prima-cpp](https://github.com/electron-rare/prima-cpp)** — Distributed LLM inference with pipelined-ring parallelism (CUDA + ZMQ). C++.
 - **[oidc2fer](https://github.com/electron-rare/oidc2fer)** — OIDC gateway to the French education federation (Renater). Go.
 - **[turboquant](https://github.com/electron-rare/turboquant)** — Near-optimal KV-cache quantization for LLM inference.
 
 ## Formation
 
-A 7-course Moodle catalog covering ESP32 + IA, FreeRTOS, KiCad, IoT, LLMs locaux, Docker self-hosting, and embedded toolchains — see [`formation-*`](https://github.com/electron-rare?tab=repositories&q=formation) repos and the **[Apple SOTA 2026 Moodle theme](https://github.com/electron-rare/moodle-theme-fer)**.
+A 7-course Moodle catalog covering ESP32 + IA, FreeRTOS, KiCad, IoT, LLMs locaux, Docker self-hosting, and embedded toolchains — see the [`formation-*`](https://github.com/electron-rare?tab=repositories&q=formation) repos.
 
 ## Archived but documented
 
@@ -63,7 +62,7 @@ A 7-course Moodle catalog covering ESP32 + IA, FreeRTOS, KiCad, IoT, LLMs locaux
 
 ## Fine-tuned models
 
-Domain-specific LoRAs and datasets on [Hugging Face](https://huggingface.co/electron-rare) — ESP32, STM32, KiCad, SPICE, PlatformIO, IoT, DSP, EMC — plus Hypneum Lab research artifacts on [hypneum-lab](https://huggingface.co/hypneum-lab).
+Domain-specific LoRAs and datasets on [Hugging Face](https://huggingface.co/electron-rare) — ESP32, STM32, KiCad, SPICE, PlatformIO, IoT, DSP, EMC.
 
 ## Stats
 
