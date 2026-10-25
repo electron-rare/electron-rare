@@ -19,7 +19,7 @@ Et une entité close : **[ailiance](https://github.com/ailiance)** (2025–2026)
 
 - **Second cerveau** — assistant personnel *local-first* : mail, agenda, notes et mémos vocaux triés et résumés chaque matin, mémoire épisodique, inférence 100 % locale sur Apple Silicon (MLX). Code privé ; la méthode (petits services, règles explicites, modèles ouverts) est celle de tout ce qui suit.
 - **HypnoLED** — contrôleur LED ESP32-S3 pour le spectacle vivant, co-simulation QEMU + ngspice, PCB en cours. Code privé jusqu'à la première série.
-- **Hypneum — programme 2026-27** — quatre phases (vérité → falsifiable → dix hypothèses → écrire), ~10 h par semaine, suivi public sur le [GitHub Project de l'org](https://github.com/orgs/hypneum-lab/projects/1). Premier publiable visé : une note méthodologique sur les nuls calibrés et les errata.
+- **Hypneum — programme 2026-27** — quatre phases (vérité → falsifiable → dix hypothèses → écrire), ~10 h par semaine, roadmap et suivi sur [hypneum-lab/.github](https://github.com/hypneum-lab/.github). Premier publiable visé : une note méthodologique sur les nuls calibrés et les errata.
 
 ## L'Electron Rare — le hardware *(le corps)*
 
