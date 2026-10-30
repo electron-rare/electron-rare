@@ -21,7 +21,7 @@ Formateur technique pour un organisme certifié Qualiopi (2026) : parcours **« 
 
 ## IA souveraine (2024-2026, clos)
 
-Architecte de **[ailiance](https://github.com/ailiance)**, infrastructure d'IA souveraine : gateway LLM compatible OpenAI, adaptateurs LoRA entraînés sur MLX et CUDA, plus de 30 modèles publiés sur Hugging Face ([Ailiance-fr](https://huggingface.co/Ailiance-fr), [clemsail](https://huggingface.co/clemsail)), serveurs MCP et banc d'évaluation EU AI Act [iact-bench](https://github.com/ailiance/iact-bench). Projet clos ; les dépôts publics restent consultables.
+Architecte de **[ailiance](https://github.com/ailiance)**, infrastructure d'IA souveraine : gateway LLM compatible OpenAI, adaptateurs LoRA entraînés sur MLX et CUDA, plus de 30 modèles publiés sur Hugging Face ([Ailiance-fr](https://huggingface.co/Ailiance-fr), [clemsail](https://huggingface.co/clemsail)), serveurs MCP et banc d'évaluation EU AI Act iact-bench (dépôt privé). Projet clos ; les dépôts publics restent consultables.
 
 ## Recherche ouverte
 
