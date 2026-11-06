@@ -10,10 +10,18 @@ Je transmets aussi ce métier en formation, et j'ai mené une infrastructure d'I
 
 Contributions à l'organisation [KomplexKapharnaum](https://github.com/KomplexKapharnaum) : 502 commits sur 8 dépôts, 2022-2026.
 
-- **[KXKM_Batterie_Parallelator](https://github.com/KomplexKapharnaum/KXKM_Batterie_Parallelator)** — auteur principal (400 commits sur 430). BMU gérant jusqu'à 32 packs batterie 24-30 V : ESP32-S3, ESP-IDF 5.4, mesure INA226, SmartShunt en BLE, télémétrie MQTT/InfluxDB, interface LVGL, mise à jour OTA, application iOS, 26 tests et CI.
+- **[KXKM_Batterie_Parallelator](https://github.com/KomplexKapharnaum/KXKM_Batterie_Parallelator)** — auteur principal (400 commits sur 430). BMU gérant jusqu'à 32 packs batterie 24-30 V : ESP32-S3, ESP-IDF 5.4, mesure INA237 par pack et isolation MOSFET, SmartShunt en BLE, télémétrie MQTT/InfluxDB, interface LVGL, mise à jour OTA, application iOS, 26 tests et CI.
 - **[LEDcurtain](https://github.com/KomplexKapharnaum/LEDcurtain)** et **[LEDcurtain_hardware](https://github.com/KomplexKapharnaum/LEDcurtain_hardware)** — auteur principal. Nœud Art-Net sur Teensy 4.1 pilotant 50 bandes LED, cartes conçues sous KiCad.
 - **[kxkm_Ve.direct](https://github.com/KomplexKapharnaum/kxkm_Ve.direct)** — auteur.
 - Contributeur : [STM32_ESP32_firmware](https://github.com/KomplexKapharnaum/STM32_ESP32_firmware), [K32-lib](https://github.com/KomplexKapharnaum/K32-lib), [KXKMSACIO](https://github.com/KomplexKapharnaum/KXKMSACIO), [KXKM_ESP32_Audio_Battery_hardware](https://github.com/KomplexKapharnaum/KXKM_ESP32_Audio_Battery_hardware).
+
+## Contributions amont et relecture
+
+- **[ml-explore/mlx #4810](https://github.com/ml-explore/mlx/pull/4810)** — documentation fusionnée (nov. 2026) : `random.normal` n'est pas bit-exact d'une génération de GPU Apple à l'autre ; triangulation sur quatre machines dans l'issue [#3568](https://github.com/ml-explore/mlx/issues/3568).
+- **[openai/procgen #107](https://github.com/openai/procgen/pull/107)** — validation sur une seconde machine Apple Silicon de la compilation arm64.
+- **ReScience C** — soumission d'une réplication préenregistrée ([#147](https://github.com/ReScience/submissions/issues/147)) et relecteur pour le journal.
+- **[platformio/platform-espressif32](https://github.com/platformio/platform-espressif32)** — épinglage de version documenté après la rupture v8 / arduino-esp32 3.3 ([KXKM #14](https://github.com/KomplexKapharnaum/KXKM_Batterie_Parallelator/pull/14)).
+- Page projet **[Hackaday.io](https://hackaday.io/project/207293-kxkm-batterie-parallelator-open-bmu-for-32-parallel-battery-packs)** de la BMU KXKM (matériel et firmware GPL-3).
 
 ## Formation
 
